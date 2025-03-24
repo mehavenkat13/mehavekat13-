@@ -31,8 +31,8 @@
 ## 🏆 GitHub Stats & Achievements
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehavenkat13&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehavenkat13&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mehavenkat13&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehavenkat13&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meha&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
